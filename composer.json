@@ -1,0 +1,9 @@
+{
+    "name": "gert/example",
+    "authors": [
+        {
+            "name": "BackEndTea"
+        }
+    ],
+    "require": {}
+}

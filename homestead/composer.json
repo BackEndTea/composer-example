@@ -1,0 +1,11 @@
+{
+    "name": "gert/homestead",
+    "require": {
+        "laravel/homestead": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "BackEndTea"
+        }
+    ]
+}
